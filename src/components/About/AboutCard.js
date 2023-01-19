@@ -4,6 +4,7 @@ import { ImPointRight } from "react-icons/im";
 
 function AboutCard() {
   return (
+    <div className="aboutc" id="aboutc">
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
@@ -31,6 +32,7 @@ function AboutCard() {
         </blockquote>
       </Card.Body>
     </Card>
+  </div>
   );
 }
 
