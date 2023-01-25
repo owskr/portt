@@ -35,7 +35,7 @@ function Home() {
             <Col md={5} style={{ paddingBottom: 20  ,paddingTop : 180}}>
             <img
       
-                src="https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/296112449_3509359049292805_2321301803758616469_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=w48-tG4Kg80AX_xQsfs&_nc_ht=scontent.fbkk21-1.fna&oh=00_AfD_Miy1kQCxtmdit4AxXwN60Tj5V9v3zQscRmtlaUencw&oe=63CEB6E5"
+                src="https://scontent.fbkk21-1.fna.fbcdn.net/v/t39.30808-6/296112449_3509359049292805_2321301803758616469_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGzAd9EEG6zENB9sHhxB9cgH-DBAnGPpq0f4MECcY-mrZM-AW7jvlnakNuMXy1lZzY1u_Wvcg-8DUY4lm_kNAur&_nc_ohc=HcWBSt-QLekAX8aV_UZ&_nc_ht=scontent.fbkk21-1.fna&oh=00_AfCdlzmfrpGCsGUuz8mpee5BS5pReR1CJksZZDlvS5jLMw&oe=63D69FE5"
                 style={{ maxHeight: "450px" }}
               />
             </Col>
